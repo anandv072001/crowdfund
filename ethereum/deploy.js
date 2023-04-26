@@ -3,8 +3,8 @@ const Web3 = require('web3');
 const compiledFactory = require('./build/CampaignFactory.json');
 
 const provider = new HDWalletProvider(
-  'actress luggage bonus choice virus kitchen dwarf mobile maple oval object gate',
-  'https://sepolia.infura.io/v3/046deafd65e449aba0b8ec07248c294e'
+  '',
+  ''
 );
 const web3 = new Web3(provider);
 
