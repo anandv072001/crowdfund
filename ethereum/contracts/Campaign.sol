@@ -106,8 +106,4 @@ contract Campaign {
     }
 }
 
-// Contract deployed to 0x633cdd7931dB0c8B2Bf29ecda6Af052eDEEC2816
 
-// Contract deployed successfully
-// view transaction at: https://sepolia.etherscan.io/address/ 0x633cdd7931dB0c8B2Bf29ecda6Af052eDEEC2816
-// Deployment completed successfully.+
